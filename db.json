@@ -1,0 +1,17 @@
+{
+    "data": {
+      "transactionId": "20240523165019",
+      "dc2Tph": 778,
+      "dc3BinLevel": 55.18,
+      "vs1Current": 38.14,
+      "vs2Current": 47.19,
+      "ffsCurrent": 36.93,
+      "vs3Current": 49.10,
+      "tableData": [
+        { "location": "AF1", "recommendedDozing": 60, "recommendation": "Please Continue Dozing" },
+        { "location": "DC2", "recommendedDozing": 40, "recommendation": "Please Continue Dozing" },
+        { "location": "DRC2", "recommendedDozing": 0, "recommendation": "Please Stop Dozing" }
+      ]
+    }
+  }
+  
